@@ -45,9 +45,3 @@ Integration with Mobile App
 Real-time Detection using Camera
 
 Deep Learning Model (CNN)
-
-## 🔗 Sample Output
-
-Live demo of the Paddy Disease Detection System:
-
-![Sample Output](results/sample_output.png)
